@@ -1,0 +1,34 @@
+_repo: The-Creed-of-the-Old-South-1865-1915_24281
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gildersleeve, Basil L. (Basil Lanneau)
+    aliases:
+    - Gildersleeve, B. L. (Basil Lanneau)
+    - Gildersleeve, Basil Lanneau
+    birthdate: 1831
+    deathdate: 1924
+    gutenberg_agent_id: '25124'
+    url: http://www.gutenberg.org/2009/agents/25124
+    wikipedia: http://en.wikipedia.org/wiki/Basil_Lanneau_Gildersleeve
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Greece -- History -- Peloponnesian War, 431-404 B.C.'
+- !lcc 'E456'
+tableOfContents: Preface -- The creed of the Old South -- A Southerner in the Peloponnesian
+  War.
+title: The Creed of the Old South 1865-1915
+url: http://www.gutenberg.org/ebooks/24281
